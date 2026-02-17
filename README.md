@@ -5,9 +5,6 @@
 ## About
 This repository showcases various projects and experiments that I have worked on, focusing on dynamic and interactive elements.
 
-### Dynamic GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chan2k20&show_icons=true&theme=radical)
-
 
 ### How to Contribute
 Feel free to make contributions to this repository. Open an issue or submit a pull request.
